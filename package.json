@@ -1,0 +1,27 @@
+{
+  "name": "gulp-render-to-string",
+  "version": "1.0.0",
+  "description": "A Gulp plugin for injecting piped content into a React element and rendering it to a string using ReactDOM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "react",
+    "template",
+    "templating"
+  ],
+  "author": "Katie Fenn",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "peerDependencies": {
+    "react": "^15.4.2"
+  },
+  "dependencies": {
+    "through2": "^2.0.3",
+    "react-dom": "^15.4.2"
+  }
+}
