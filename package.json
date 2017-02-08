@@ -23,5 +23,13 @@
   "dependencies": {
     "through2": "^2.0.3",
     "react-dom": "^15.4.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katiefenn/gulp-render-to-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/katiefenn/gulp-render-to-string/issues"
+  },
+  "homepage": "https://github.com/katiefenn/gulp-render-to-string#readme"
 }
